@@ -1,0 +1,15 @@
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Applications\bin\Debug\net8.0\Gerenciador.Applications.deps.json
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Applications\bin\Debug\net8.0\Gerenciador.Applications.dll
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Applications\bin\Debug\net8.0\Gerenciador.Applications.pdb
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Applications\bin\Debug\net8.0\Gerenciador.Communications.dll
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Applications\bin\Debug\net8.0\Gerenciador.Communications.pdb
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Applications\obj\Debug\net8.0\Gerenciador.Applications.csproj.AssemblyReference.cache
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Applications\obj\Debug\net8.0\Gerenciador.Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Applications\obj\Debug\net8.0\Gerenciador.Applications.AssemblyInfoInputs.cache
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Applications\obj\Debug\net8.0\Gerenciador.Applications.AssemblyInfo.cs
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Applications\obj\Debug\net8.0\Gerenciador.Applications.csproj.CoreCompileInputs.cache
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Applications\obj\Debug\net8.0\Gerencia.C94090C3.Up2Date
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Applications\obj\Debug\net8.0\Gerenciador.Applications.dll
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Applications\obj\Debug\net8.0\refint\Gerenciador.Applications.dll
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Applications\obj\Debug\net8.0\Gerenciador.Applications.pdb
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Applications\obj\Debug\net8.0\ref\Gerenciador.Applications.dll

@@ -1,0 +1,11 @@
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Communications\bin\Debug\net8.0\Gerenciador.Communications.deps.json
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Communications\bin\Debug\net8.0\Gerenciador.Communications.dll
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Communications\bin\Debug\net8.0\Gerenciador.Communications.pdb
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Communications\obj\Debug\net8.0\Gerenciador.Communications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Communications\obj\Debug\net8.0\Gerenciador.Communications.AssemblyInfoInputs.cache
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Communications\obj\Debug\net8.0\Gerenciador.Communications.AssemblyInfo.cs
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Communications\obj\Debug\net8.0\Gerenciador.Communications.csproj.CoreCompileInputs.cache
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Communications\obj\Debug\net8.0\Gerenciador.Communications.dll
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Communications\obj\Debug\net8.0\refint\Gerenciador.Communications.dll
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Communications\obj\Debug\net8.0\Gerenciador.Communications.pdb
+C:\Users\SDS_HP\source\repos\GerenciadorDeTarefas\Gerenciador.Communications\obj\Debug\net8.0\ref\Gerenciador.Communications.dll
